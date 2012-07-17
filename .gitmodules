@@ -1,0 +1,3 @@
+[submodule "submodulo_git"]
+	path = submodulo_git
+	url = git@github.com:slok/submodulo_git.git
